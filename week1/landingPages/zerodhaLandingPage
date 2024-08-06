@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zerodha landing page </title>
+    <style>
+        span{
+           
+            padding-right: 50px;
+            cursor: pointer;
+          
+        }
+    </style>
+</head>
+<body>
+    <div style="display: flex; justify-content: space-between;background-color: rgb(244, 246, 250);">
+        <div  >
+            <img src="https://logowik.com/content/uploads/images/zerodha6662.jpg" alt="" style="width: 100px; ;padding-left: 50px;">
+        </div>
+        <div style="margin-top: 20px;margin-right: 70px; padding-top: 10px;">
+        <span >Signup</span>
+        <span>About</span>
+        <span>Products</span>
+        <span>Pricing</span>
+        <span>Support</span>
+        </div>
+    </div>
+    <div>
+        <img src="https://zerodha.com/static/images/landing.png" alt="" style="width: 800px; height: 350px; margin-left: 250px;margin-top: 20px;">
+    </div>
+    <div style="font-size: 40px; margin-left: 475px;margin-top: 15px;">
+        Invest in everything
+    </div>
+    <div>
+        <p style="margin-left: 350px; font-size: 17px;">Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.</p>
+    </div>
+    <div>
+        <button style="background-color: rgba(18, 73, 253, 0.826);
+        color: white;padding: 7px 20px; border: none; margin-left: 600px;margin-top: 30px;cursor: pointer;">Sign Up now</button>
+    </div>
+</body>
+</html>
