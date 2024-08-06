@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>vs code landing page </title>
     <style>
-        .headre {
+        .header {
             padding-left: 30px;
             color: white;
             cursor: pointer;
@@ -22,13 +22,13 @@
             Visual Stdio Code
           </span>
 
-            <span class="headre">Docs</span>
-            <span class="headre">Updates</span>
-            <span class="headre">Blog</span>
-            <span class="headre">API</span>
-            <span class="headre">Extensions</span>
-            <span class="headre">FAQ</span>
-            <span class="headre">Learn</span>
+            <span class="header">Docs</span>
+            <span class="header">Updates</span>
+            <span class="header">Blog</span>
+            <span class="header">API</span>
+            <span class="header">Extensions</span>
+            <span class="header">FAQ</span>
+            <span class="header">Learn</span>
         </div>
         <div style="margin-top: 5px;margin-right: 40px;">
             <input type="text" placeholder="Search Docs" style="border-radius: 5px;">
