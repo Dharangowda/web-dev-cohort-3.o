@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vs code landing page </title>
+    <style>
+        .headre {
+            padding-left: 30px;
+            color: white;
+        }
+    </style>
+</head>
+
+<body style="background-color: black;">
+    <div style="display: flex;justify-content: space-between;">
+        <div style="margin-top: 5px;margin-left: 30px;">
+            <img src="vscodelogo.png" alt="" style="height: 20px;width: 20px;">
+          <span style="font-size: 20px;font-weight: 600;color: white;padding: 20px;padding-left: 0px;">
+            Visual Stdio Code
+          </span>
+
+            <span class="headre">Docs</span>
+            <span class="headre">Updates</span>
+            <span class="headre">Blog</span>
+            <span class="headre">API</span>
+            <span class="headre">Extensions</span>
+            <span class="headre">FAQ</span>
+            <span class="headre">Learn</span>
+        </div>
+        <div style="margin-top: 5px;margin-right: 40px;">
+            <input type="text" placeholder="Search Docs" style="border-radius: 5px;">
+            <button style="background-color: rgb(8, 113, 194);color: white;margin-left: 5px;border-radius: 5px;padding: 6px;padding-right: 15px;padding-left: 15px;">Download</button>
+        </div> 
+    </div>
+
+    <div style="margin-top: 50px;margin-left: 400px;">
+        <a href="" style="color:rgb(8, 113, 194);">Version1.92</a>
+        <span style="color: aliceblue;margin-left: 20px;">is now avilable! Read about new Features and fixes from july</span>
+
+    </div>
+
+    <div style="display: flex;justify-content: space-between;">
+        <div style="">
+            <input type="text" style="background-color: black;margin-left: 50px;border-radius: 50px ;width: 280px ;margin-top: 100px;" 
+            
+            placeholder="Free.Built on open source.Runs everywhere">
+            <div style="font-size: 50px; color: white;margin-left: 50px;margin-top: 30px;">
+                Code.
+            </div>
+            <div style="font-size: 50px; color: white;margin-left: 50px;margin-top: 10px; padding-top: 10px;" >
+                Editing.
+            </div>
+            <div style="font-size: 50px; color: white; margin-left: 50px;margin-top: 10px;padding-top: 10px;">
+                Redefined.
+            </div>
+            <button style="background-color: rgb(8, 113, 194);border-radius: 8px;padding: 8px;padding-right: 20px;
+             margin-top: 50px; margin-left: 50px;">Download for Windows</button>
+             <div style="margin-top: 10px;margin-left: 50px;padding-top: 30px;">
+                <a href="" style="color: rgb(8, 113, 194);">Web,insiders edition, </a>
+                <span style="color: aliceblue;"> or </span>
+                <a href="" style="color: rgb(8, 113, 194);">others,platforms</a>
+             </div>
+             <div style="padding-top: 10px;padding-left: 50px;">
+                <span style="color: aliceblue;">By useing Vs Code,you agree to its</span><a href="" style="padding-left: 5px; color: rgb(8, 113, 194);">licences</a><span style="color: aliceblue;"> and</span><a href="" style="color: rgb(8, 113, 194);"> privacy statement</a>
+             </div>
+        </div>
+        <div style="margin-top: 75px;margin-right: 50px;">
+            <img src="https://code.visualstudio.com/assets/home/home-screenshot-mac-2x-v2.png" alt="" style="width: 600px;height: 470px;">
+        </div>
+    </div>
+</body>
+
+</html>
