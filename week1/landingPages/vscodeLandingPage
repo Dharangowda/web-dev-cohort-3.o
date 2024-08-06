@@ -9,6 +9,7 @@
         .headre {
             padding-left: 30px;
             color: white;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -16,7 +17,7 @@
 <body style="background-color: black;">
     <div style="display: flex;justify-content: space-between;">
         <div style="margin-top: 5px;margin-left: 30px;">
-            <img src="vscodelogo.png" alt="" style="height: 20px;width: 20px;">
+            <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="" style="height: 20px;width: 20px;">
           <span style="font-size: 20px;font-weight: 600;color: white;padding: 20px;padding-left: 0px;">
             Visual Stdio Code
           </span>
@@ -31,7 +32,7 @@
         </div>
         <div style="margin-top: 5px;margin-right: 40px;">
             <input type="text" placeholder="Search Docs" style="border-radius: 5px;">
-            <button style="background-color: rgb(8, 113, 194);color: white;margin-left: 5px;border-radius: 5px;padding: 6px;padding-right: 15px;padding-left: 15px;">Download</button>
+            <button style="background-color: rgb(8, 113, 194);color: white;margin-left: 5px;border-radius: 5px;padding: 6px;padding-right: 15px;padding-left: 15px;cursor: pointer;">Download</button>
         </div> 
     </div>
 
@@ -56,7 +57,7 @@
                 Redefined.
             </div>
             <button style="background-color: rgb(8, 113, 194);border-radius: 8px;padding: 8px;padding-right: 20px;
-             margin-top: 50px; margin-left: 50px;">Download for Windows</button>
+             margin-top: 50px; margin-left: 50px;cursor: pointer;">Download for Windows</button>
              <div style="margin-top: 10px;margin-left: 50px;padding-top: 30px;">
                 <a href="" style="color: rgb(8, 113, 194);">Web,insiders edition, </a>
                 <span style="color: aliceblue;"> or </span>
